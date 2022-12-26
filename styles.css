@@ -61,7 +61,7 @@ a:hover {
 a {
     text-decoration: none;
     cursor:pointer;
-    transition: all 6s ease-in-out ,border 200ms ease-in-out;
+    transition: all 4s ease-in-out;
     color: #f9faf8;
 }
 .hero-img {
